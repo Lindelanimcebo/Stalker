@@ -1,15 +1,15 @@
 //********************************************************************
-//*                    EEE2046F C example                            *
+//*                    Project Stalker								 *
 //*==================================================================*
 //* WRITTEN BY:    	Lindelani Mbatha
 //* DATE CREATED:      20/06/2019
-//* MODIFIED:         20/06/2019                                               *
+//* MODIFIED:         20/06/2019                                     *
 //*==================================================================*
 //* PROGRAMMED IN: Eclipse Neon 3 Service Release 1 (4.4.1)          *
 //* DEV. BOARD:    UCT STM32 Development Board                       *
 //* TARGET:	   STMicroelectronics STM32F051C6                        *
 //*==================================================================*
-//* DESCRIPTION:  Multi-Purpose Dog like robot named stalker.                                                   *
+//* DESCRIPTION:  Multi-Purpose Dog like robot named stalker.        *
 //*                                                                  *
 //********************************************************************
 // INCLUDE FILES
